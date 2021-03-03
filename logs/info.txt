@@ -1,0 +1,17 @@
+2021-03-02T03:20:18.332Z : Starting kraken challenge
+2021-03-02T03:20:18.411Z : Step1: Connecting to database
+2021-03-02T03:20:18.411Z : Step2: Loading file transactions-1.json
+2021-03-02T03:20:19.249Z : Step3: Loading file transactions-2.json
+2021-03-02T03:20:19.699Z : Step4: Calculating credits: 
+2021-03-02T03:20:19.742Z : Deposited for Wesley Crusher: count=35 sum=217.00000000
+2021-03-02T03:20:19.790Z : Deposited for Leonard McCoy: count=15 sum=64.00000000
+2021-03-02T03:20:19.834Z : Deposited for Jonathan Archer: count=18 sum=99.69000000
+2021-03-02T03:20:19.854Z : Deposited for Jadzia Dax: count=11 sum=55.13000000
+2021-03-02T03:20:19.891Z : Deposited for Montgomery Scott: count=24 sum=108.04593000
+2021-03-02T03:20:19.917Z : Deposited for James T. Kirk: count=27 sum=1267.00848015
+2021-03-02T03:20:19.933Z : Deposited for Spock: count=14 sum=688.88081478
+2021-03-02T03:20:20.031Z : Deposited without reference: count=167 sum=3453.79101076
+2021-03-02T03:20:20.040Z : Smallest valid deposit:
+2021-03-02T03:20:20.047Z : Largest valid deposit:
+2021-03-02T03:20:20.048Z : Step5: Closing database
+2021-03-02T03:20:20.079Z : Challenge finished. For errors, check file ./logs/error.txt

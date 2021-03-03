@@ -1,0 +1,5 @@
+{
+    "MONGODB_URI" : "mongodb://localhost:27017/kraken",
+    "DB_POOL_SIZE" : 5,
+    "BATCH_INSERT_VALUE" : 100
+}

@@ -1,0 +1,28 @@
+version: "3"
+services:
+      kraken:
+          container_name: kraken
+          image: kraken-challenge                      
+          build:
+            context: .
+            dockerfile: Dockerfile
+          ports:
+            - "7500:7500"
+          links:
+            - mongo
+          depends_on:
+            - mongo
+          environment:
+            - MONGODB_URI=mongodb://mongo:27017/kraken
+          volumes:
+            - ./logs:/usr/src/app/logs
+
+      mongo:
+          container_name: mongo
+          image: mongo
+          volumes:
+            - ./data:/data/db
+          logging:
+            driver: none 
+          ports:
+            - '27018:27017'

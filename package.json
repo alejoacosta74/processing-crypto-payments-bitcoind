@@ -1,0 +1,19 @@
+{
+  "name": "kraken-crypto-payments-hiring-test-v1.4.0",
+  "version": "1.0.0",
+  "description": "At Kraken, we receive thousands of deposits from customers per day. This test is designed to test your ability to work with a transaction set that could get returned by a blockchain daemon like bitcoind.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --no-deprecation  --no-warnings index.js"
+  },
+  "author": "Alejo Acosta",
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^2.0.0",
+    "bluebird": "^3.7.2",
+    "JSONStream": "^1.3.5",
+    "mongodb": "^3.6.4",
+    "mongoose": "^5.11.18"
+  }
+}

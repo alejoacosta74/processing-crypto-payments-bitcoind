@@ -1,0 +1,30 @@
+{
+"WESLEY": {
+    "address" : "mvd6qFeVkqH6MNAS2Y2cLifbdaX5XUkbZJ",
+    "name" : "Wesley Crusher"
+    },
+"LEONARD": {
+    "address" : "mmFFG4jqAtw9MoCC88hw5FNfreQWuEHADp",
+    "name" : "Leonard McCoy"
+    },
+"JONHATAN" : {
+    "address" : "mzzg8fvHXydKs8j9D2a8t7KpSXpGgAnk4n",
+    "name" : "Jonathan Archer"
+    },    
+"JADZIA": {
+    "address" : "2N1SP7r92ZZJvYKG2oNtzPwYnzw62up7mTo",
+    "name" : "Jadzia Dax"
+    },
+"MONTGOMERY" : {
+    "address" :"mutrAf4usv3HKNdpLwVD4ow2oLArL6Rez8",
+    "name" : "Montgomery Scott"
+    },
+"JAMES": {
+    "address" : "miTHhiX3iFhVnAEecLjybxvV5g8mKYTtnM",
+    "name" : "James T. Kirk"
+    },    
+"SPOCK": {
+    "address" : "mvcyJMiAcSXKAEsQxbW9TYZ369rsMG6rVV",
+    "name" : "Spock"
+    }
+}
